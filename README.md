@@ -452,6 +452,8 @@ Published in the [official MCP Registry](https://registry.modelcontextprotocol.i
 
 mcp-name: io.apitube/news
 
+See more on [Claude Market's MCP directory](https://www.claudemarket.ai/mcp).
+
 ## Support
 
 | Channel | Where |
