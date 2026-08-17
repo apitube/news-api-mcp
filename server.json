@@ -3,13 +3,20 @@
   "name": "io.apitube/news",
   "title": "APITube News",
   "description": "Real-time news search across 500,000+ sources in 60+ languages with sentiment and entities.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://docs.apitube.io/platform/news-api/ai/mcp-server",
+  "repository": {
+    "url": "https://github.com/apitube/news-api-mcp",
+    "source": "github",
+    "id": "1337170951"
+  },
   "icons": [
     {
       "src": "https://apitube.io/favicons/android-icon-192x192.png",
       "mimeType": "image/png",
-      "sizes": ["192x192"]
+      "sizes": [
+        "192x192"
+      ]
     }
   ],
   "remotes": [

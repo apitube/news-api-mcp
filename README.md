@@ -445,6 +445,13 @@ matching HTTP status.
 | Agent skill, SDKs, migration kits | https://github.com/apitube |
 | Installing this server as an agent | [`llms-install.md`](llms-install.md) |
 
+## Registry
+
+Published in the [official MCP Registry](https://registry.modelcontextprotocol.io) from
+[`server.json`](server.json) in this repository:
+
+mcp-name: io.apitube/news
+
 ## Support
 
 | Channel | Where |
