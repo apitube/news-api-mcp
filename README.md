@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="APITube News MCP — 500,000+ sources, 177 countries, 59 languages, 2 tools" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo.svg" alt="APITube" width="320">
   </picture>
 
 <h1>APITube News MCP</h1>

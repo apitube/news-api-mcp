@@ -13,8 +13,8 @@ README.md                  what the server is, how to connect, what the tools ac
 llms-install.md            install instructions written for an agent doing the setup
 server.json                the entry published to registry.modelcontextprotocol.io
 configs/                   ready config files, one per MCP client
-assets/banner-light.svg    1280×320 README header, light theme (default in <picture>)
-assets/banner-dark.svg     the same header for prefers-color-scheme: dark
+assets/logo.svg            APITube logo at the top of the README (light theme)
+assets/logo-dark.svg       white version for prefers-color-scheme: dark
 assets/logo-400.png        400×400 icon for directories that ask for one
 ```
 
