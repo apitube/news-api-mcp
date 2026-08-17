@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    {
+      "type": "promptString",
+      "id": "apitube-key",
+      "description": "APITube API Key",
+      "password": true
+    }
+  ],
+  "servers": {
+    "apitube-news": {
+      "type": "http",
+      "url": "https://mcp.apitube.io/",
+      "headers": {
+        "Authorization": "Bearer ${input:apitube-key}"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "apitube-news": {
+      "type": "streamableHttp",
+      "url": "https://mcp.apitube.io/",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="APITube News MCP — real-time news search for AI agents">
+  <defs>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#0254EC" fill-opacity="0.13"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="#FFFFFF"/>
+  <rect x="24" y="24" width="1232" height="272" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1278" height="318" fill="none" stroke="#E3E8F2" stroke-width="2"/>
+
+  <g transform="translate(72 116)">
+    <circle cx="44" cy="44" r="44" fill="#0254EC"/>
+    <text x="44" y="60" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">AT</text>
+  </g>
+
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="196" y="144" font-size="52" font-weight="700" fill="#0B1220" letter-spacing="-0.5">APITube News MCP</text>
+    <text x="198" y="186" font-size="22" fill="#4A5568">Real-time news search for AI agents &#8212; over MCP</text>
+    <text x="198" y="228" font-size="18" fill="#7A8698">500,000+ sources &#183; 177 countries &#183; 59 languages</text>
+  </g>
+
+  <g transform="translate(946 138)">
+    <rect width="266" height="52" rx="26" fill="#0254EC"/>
+    <text x="133" y="34" text-anchor="middle" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="600" fill="#FFFFFF">mcp.apitube.io</text>
+  </g>
+</svg>

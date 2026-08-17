@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "apitube-news": {
+      "serverUrl": "https://mcp.apitube.io/",
+      "headers": {
+        "Authorization": "Bearer YOUR_API_KEY"
+      }
+    }
+  }
+}

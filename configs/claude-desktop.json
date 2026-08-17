@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "apitube-news": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.apitube.io/",
+        "--header",
+        "Authorization: Bearer YOUR_API_KEY"
+      ]
+    }
+  }
+}
