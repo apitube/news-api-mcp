@@ -1,7 +1,8 @@
 <div align="center">
-  <a href="https://docs.apitube.io/platform/news-api/ai/mcp-server">
-    <img src="assets/banner-light.svg" alt="APITube News MCP" width="100%">
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="APITube News MCP — 500,000+ sources, 177 countries, 59 languages, 2 tools" width="100%">
+  </picture>
 
 <h1>APITube News MCP</h1>
 
