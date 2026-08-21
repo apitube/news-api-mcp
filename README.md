@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/transport-Streamable%20HTTP-0254EC?style=flat-square" alt="Transport: Streamable HTTP">
   <img src="https://img.shields.io/badge/MCP%20protocol-2025--11--25-0254EC?style=flat-square" alt="MCP protocol 2025-11-25">
   <img src="https://img.shields.io/badge/tools-2-success?style=flat-square" alt="2 tools">
-  <img src="https://img.shields.io/badge/sources-500%2C000%2B-success?style=flat-square" alt="500,000+ sources">
+  <img src="https://img.shields.io/badge/sources-300%2C000%2B-success?style=flat-square" alt="300,000+ sources">
   <img src="https://img.shields.io/badge/languages-59-success?style=flat-square" alt="59 languages">
 </p>
 
